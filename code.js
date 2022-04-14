@@ -7,7 +7,7 @@
 // internet and one for use when you are on the same LAN as the machine running the
 // server, where the main URL won't work. There is a switch in the Configuration
 // panel to toggle between them.
-const SERVER_URL = "https://planesailingserver.ianrenton.com/";
+const SERVER_URL = "http://tropo.ea8cxn.es:8090/";
 const SERVER_URL_LAN = "http://192.168.1.24:8090/";
 
 // Map default position/zoom
